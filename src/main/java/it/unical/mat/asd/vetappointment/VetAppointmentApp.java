@@ -1,5 +1,5 @@
 package it.unical.mat.asd.vetappointment;
-
+//selam for appointment
 import it.unical.mat.asd.vetappointment.config.ApplicationProperties;
 
 import io.github.jhipster.config.DefaultProfileUtil;
